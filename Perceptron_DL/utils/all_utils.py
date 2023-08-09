@@ -29,7 +29,7 @@ def save_plot(df, file_name, model):
     plt.axhline(y=0, color="black", linestyle="--", linewidth=1)
     plt.axvline(x=0, color="black", linestyle="--", linewidth=1)
     figure = plt.gcf() # get current figure
-    figure.set_size_inches(10, 8)
+    figure.set_size_inches(12, 10)
 
   def _plot_decision_regions(X, y, classfier, resolution=0.02):
     colors = ("red", "blue", "lightgreen", "gray", "cyan")
