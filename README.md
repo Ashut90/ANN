@@ -1,3 +1,6 @@
 # ML and Deep Learning
-Machine learning related programs , started from the basics to intermediate level and later on to advance.
+Here I posted my ML and DL programs that I practiced.
+Programs Include the program from Basic perceptron algorithm to advance level of ML and DL algorithm.
+
+
 
